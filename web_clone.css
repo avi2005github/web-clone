@@ -1,0 +1,203 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container{
+    height: 700vh;
+    font-family: "Roboto";
+}
+.carousel-item{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.video-background{
+    position: olute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+.companies-container{
+    background-color: #0f172a;
+    height: 80vh;
+    font-family: "Roboto";
+    text-align: center;
+}
+.company-heading{
+    color: #f1f5f9;
+    font-size: 42px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.second-line{
+    padding-top: 10px;
+    display: inline-block;
+}
+.scroll-size{
+    height: 60px;
+    margin-top: 30px;
+}
+.rare-collection-container{
+    background-color: #1e293b;
+    height: 180vh;
+    text-align: center;
+}
+.knowledge-content{
+    font-size: 18px;
+    color: #c6c7d7;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+.second-line-para{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rare-collection-btn{
+    background-color: transparent;
+    border-radius: 18px;
+    border-color: #f1f5f9;
+    color: #f1f5f9;
+    border-width: 1px;
+    height: auto;
+    padding: 8px;
+    width: auto;
+    font-weight: 400;
+    margin-right: 30px;
+
+}
+.rare-collection-btn:focus {
+    background-color: #e2e8f0;
+    color: black;
+    outline: none;
+}
+.card-content1{
+    color: #cbd5e1;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.free-text{
+    color: #a3e635;
+    font-size: 22px;
+}
+.offer-text{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.feedback-container{
+    text-align: center;
+    background-color: #0f172a;
+    height: 100vh;
+}
+.feedback-heading{
+    color: #f1f5f9;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.happy_feedback{
+    color: #e89e0b;
+    font-size: 22px;
+    border-color: #e89e0b;
+    border-width: 1px;
+    width: 380px;
+    height: 50px;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+    padding: 5px;
+}
+.feedback_card{
+    background-color: #1e293b;
+    height: 250px;
+    width: 500px;
+    border-radius: 8px;
+}
+.feedback_pic{
+    height: 80px;
+}
+.linkedin_logo{
+    height: 40px;
+}
+.linkedin_heading{
+    color: white;
+
+}
+.linkedin_content{
+    color: white;
+    text-align: left;
+}
+.podcast_series_container{
+    background-color: #1e293b;
+    height: 100vh;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.podcast_content{
+    color: #f1f5f9;
+    font-size: 30px;
+    font-family: "Roboto"; 
+}
+.podcast_btn{
+    width: 380px;
+}
+.free_access_container{
+    background-color: #0f172a;
+    height: 70vh;
+    padding-top: 130px;
+}
+.input_name{
+    color: #f1f5f9;
+    font-size: 20px;
+}
+.input_content{
+    border-radius: 5px;
+    background-color: #334155;
+    border-width: 0px;
+    width: 380px;
+    height: 40px;
+    padding-left: 10px;
+    color: #f1f5f9;
+}
+.free_access_heading{
+    color: #f1f5f9;
+    font-size: 50px;
+    font-weight: 500;
+    padding-left: 100px;
+}
+.free_access_content{
+    padding-left: 300px;
+}
+.speaker_profile_container{
+    background-color: #1e293b;
+    height: 20vh;
+}
+.footer_container{
+    height: 60vh;
+    background-color: #0f172a
+    ;
+}
+.footer_content{
+    color: #5a7184;
+}
+.footer_head {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer-section-list {
+    padding-left: 0;
+    list-style-type: none;
+}
+.horizontal_line {
+    border-color: #5a7184;
+    border-width: 2px;
+}
+.popup_pic{
+    height: 70px;
+    width: 70px
+}
